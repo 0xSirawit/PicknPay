@@ -36,11 +36,6 @@ function Home() {
                 <div className="bg-red-500 text-white p-4 rounded-lg">Best Of 3</div>
                 <div className="bg-red-500 text-white p-4 rounded-lg">Best Of 4</div>
             </div>
-
-            {/* Floating Chat */}
-            <div className="fixed bottom-4 right-4 bg-blue-600 text-white p-4 rounded-full shadow-lg">
-                Chat with us!
-            </div>
         </div>
     );
 }
